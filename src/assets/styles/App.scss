@@ -1,0 +1,70 @@
+@import "variable";
+body{
+  font-family: 'Open Sans', sans-serif !important;
+}
+.progressBar{
+  position: relative;
+  height: 14px;
+  border-radius: 50px;
+  border: 1px solid $borderColor;
+  display: flex;
+  flex: 1;
+  margin: 40px auto;
+  span{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    font-size: 13px;
+    line-height: 13px;
+    width: 30px;
+    text-align: center;
+    margin-left: -15px;
+  }
+}
+
+.filter{
+  background: #1DA598;
+  height: 100%;
+  border-radius: inherit;
+  transition: width .2s ease-in;
+}
+.buttonWrapper{
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  flex:1;
+  margin-bottom: 25px;
+  h1{
+    font-size: 24px;
+    color: $titleColor;
+    margin: 0;
+    border-bottom: 1px solid $borderColor;
+    padding-bottom: 15px;
+  }
+}
+.formWrapper{
+  display: flex;
+  margin-bottom: 30px;
+}
+.radioWrapper{
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+.card-panel{
+  ul{
+    display: flex;
+    justify-content: space-around;
+    li{
+      span{
+        font-weight: bold;
+      }
+    }
+  }
+}
+.firstPageButton{
+  justify-content: flex-end !important;
+}
