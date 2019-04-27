@@ -1,5 +1,7 @@
-##Project detail
+## Project detail
 this project is a survey using react js with validation for every step,saving data in local storage after closing browser and opening again start with the step you has not finish yet and show a progress bar to show how many step users finished
+## Demo
+https://wizardsurvey.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

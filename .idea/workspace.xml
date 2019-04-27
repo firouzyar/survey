@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5264ad7-95a9-45a9-8f51-61c4b7a1fbb0" name="Default Changelist" comment="" />
+    <list default="true" id="f5264ad7-95a9-45a9-8f51-61c4b7a1fbb0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,10 +18,11 @@
     <session id="-553853858">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -27,6 +31,7 @@
           <entry key="html" value="3" />
           <entry key="js" value="77" />
           <entry key="json" value="3" />
+          <entry key="md" value="1" />
           <entry key="scss" value="7" />
         </counts>
       </usages-collector>
@@ -36,6 +41,7 @@
           <entry key="HTML" value="3" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="77" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="7" />
         </counts>
       </usages-collector>
@@ -44,6 +50,7 @@
           <entry key="html" value="26" />
           <entry key="js" value="3717" />
           <entry key="json" value="2" />
+          <entry key="md" value="270" />
           <entry key="scss" value="303" />
         </counts>
       </usages-collector>
@@ -52,12 +59,13 @@
           <entry key="HTML" value="26" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="3717" />
+          <entry key="PLAIN_TEXT" value="270" />
           <entry key="SCSS" value="303" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="5" />
+          <entry key="ESLintLanguageService" value="7" />
         </counts>
       </usages-collector>
     </session>
@@ -73,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/UI/Radio.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -81,6 +89,15 @@
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="243" selection-start-line="1" selection-start-column="243" selection-end-line="1" selection-end-column="243" />
             </state>
           </provider>
         </entry>
@@ -121,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/Components/Country.js" />
         <option value="$PROJECT_DIR$/src/Components/UI/DropDown.js" />
         <option value="$PROJECT_DIR$/src/Components/UI/Radio.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -153,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +192,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,11 +240,13 @@
       <workItem from="1554277256942" duration="18332000" />
       <workItem from="1554306151832" duration="1407000" />
       <workItem from="1554367746692" duration="1031000" />
+      <workItem from="1554368848423" duration="1171000" />
+      <workItem from="1556386331843" duration="260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36734000" />
+    <option name="totallyTimeSpent" value="38165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -406,6 +426,13 @@
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="243" selection-start-line="1" selection-start-column="243" selection-end-line="1" selection-end-column="243" />
         </state>
       </provider>
     </entry>
